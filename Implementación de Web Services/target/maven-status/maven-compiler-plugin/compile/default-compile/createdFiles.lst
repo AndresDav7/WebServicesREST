@@ -1,0 +1,6 @@
+com\restful\services\UcmRest.class
+com\restful\session\AbstractFacade.class
+com\restful\session\UcmFacade.class
+com\restful\entidades\Ucm_.class
+com\restful\services\ApplicationConfig.class
+com\restful\entidades\Ucm.class
